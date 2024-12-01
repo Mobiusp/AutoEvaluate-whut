@@ -1,7 +1,7 @@
-# AutoEvaluate.js
+# AutoEvaluate.js（暂不适用）
 适用于 **WHUT** 的自动评教油猴脚本，更新时间：2024.03.23。
 ## 版本
-* [油猴脚本](https://github.com/Mobiusp/AutoEvaluate.js)
+* [油猴脚本](https://github.com/Mobiusp/AutoEvaluate.js)（**因教务系统换新，油猴脚本已不适用**）
 * [桌面端应用程序](https://github.com/Mobiusp/AutoEvaluate)
 ## 使用说明
  将脚本添加到油猴中，打开评教页面，脚本运行效果如下：<br>
